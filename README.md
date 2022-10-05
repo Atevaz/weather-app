@@ -4,10 +4,10 @@ WeatherHive is a mobile application developed using Flutter. It supports both An
 WeatherHive is a weather application. It allows the know the weather in your location and other locations,
 
 ## Table of contents
-- ### [main packages used](https://github.com/Atevaz/hotel-booking/blob/master/README.md#main-packages-used-1)
-- ### [Folder structure](https://github.com/Atevaz/hotel-booking/blob/master/README.md#folder-structure-1)
-- ### [Screenshots 📷](https://github.com/Atevaz/hotel-booking/blob/master/README.md#screenshots)
-- ### [Demo video 📹](https://github.com/Atevaz/hotel-booking/blob/master/README.md#demo-video)
+- ### [main packages used](https://github.com/Atevaz/weather-app/blob/master/README.md#main-packages-used-1)
+- ### [Folder structure](https://github.com/Atevaz/weather-app/blob/master/README.md#folder-structure-1)
+- ### [Screenshots 📷](https://github.com/Atevaz/weather-app/blob/master/README.md#screenshots)
+- ### [Demo video 📹](https://github.com/Atevaz/weather-app/blob/master/README.md#demo-video)
 
 ## Main packages used
 - [dio](https://pub.dev/packages/dio) to make integration with API
