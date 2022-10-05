@@ -6,8 +6,7 @@ WeatherHive is a weather application. It allows the know the weather in your loc
 ## Table of contents
 - ### [main packages used](https://github.com/Atevaz/weather-app/blob/master/README.md#main-packages-used-1)
 - ### [Folder structure](https://github.com/Atevaz/weather-app/blob/master/README.md#folder-structure-1)
-- ### [Screenshots 📷](https://github.com/Atevaz/weather-app/blob/master/README.md#screenshots)
-- ### [Demo video 📹](https://github.com/Atevaz/weather-app/blob/master/README.md#demo-video)
+- ### [Demo video 📹](https://github.com/Atevaz/weather-app/blob/master/README.md#Demo)
 
 ## Main packages used
 - [dio](https://pub.dev/packages/dio) to make integration with API
